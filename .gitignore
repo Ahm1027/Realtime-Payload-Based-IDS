@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+External*Libraries/
+.idea/
+http_requests.csv
 
 # C extensions
 *.so
