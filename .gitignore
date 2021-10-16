@@ -6,6 +6,22 @@ External*Libraries/
 .idea/
 http_requests.csv
 
+#dataset files
+2021-10-06.json
+2021-10-08.json
+2021-10-05.json
+anomalous.csv
+norm_test.csv
+normal.csv
+access_log_parsed.csv
+http_requests.csv
+payloads.csv
+sqlinjections.csv
+sqlinjections.json
+SQLi.csv
+XSS_dataset.csv
+dataset.json
+
 # C extensions
 *.so
 
